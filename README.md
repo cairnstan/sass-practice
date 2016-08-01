@@ -1,1 +1,2 @@
-Sass Practice utilizing Codecademy tutorial
+#Sass Practice
+Practicing Sass utilizing Codecademy tutorial
